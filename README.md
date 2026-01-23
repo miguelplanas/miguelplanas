@@ -12,12 +12,7 @@ I am a Data Science and Engineering student currently pursuing my degree at **Un
 
 ### Academic Projects
 
-The repositories pinned below and listed here represent selected coursework and research projects developed during my university studies.
-
-| Project | Description | Methodologies & Stack |
-| :--- | :--- | :--- |
-| **svd_project** | Applications of the SVD: PCA, image compression and background removal | **Python (Jupyter), scipy, opencv...** |
-| **...** | - | **-** |
+You can find my projects here: [not yet ;)]
 
 ---
 
