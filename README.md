@@ -1,14 +1,6 @@
 # Miguel Planas
 
-### Data Science & Engineering Student | Universidade da Coruña
-
----
-
-### About Me
-
-I am a Data Science and Engineering student currently pursuing my degree at **Universidade da Coruña**. My academic focus lies in the intersection of statistical analysis, machine learning algorithms, database management systems and software engineering principles.
-
----
+## Data Science & Engineering Student | Universidade da Coruña
 
 ### My portofolio
 
