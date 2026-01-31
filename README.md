@@ -10,24 +10,9 @@ I am a Data Science and Engineering student currently pursuing my degree at **Un
 
 ---
 
-### Academic Projects
+### My portofolio
 
-You can find my projects here: [not yet ;)]
-
----
-
-### Technical Proficiency
-
-**Languages**
-* Python, R, SQL, JavaScript
-
-**Data Science & Machine Learning**
-* TensorFlow, PyTorch, Scikit-learn
-
-**Data Engineering & Tools**
-* Hadoop, Spark, Docker, Git
-
----
+You can find my projects and further personal information here: https://miguelplanas.github.io/en/projects/
 
 ### Contact
 
@@ -35,4 +20,4 @@ I am open to professional connections regarding research opportunities or engine
 
 * **LinkedIn:** www.linkedin.com/in/miguelplanasdiaz
 * **Email:** miguelplanasdiaz@gmail.com
-* **Portfolio:** -
+* **Portfolio:** https://miguelplanas.github.io/en/
