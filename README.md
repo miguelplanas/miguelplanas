@@ -12,4 +12,3 @@ I am open to professional connections regarding research opportunities or engine
 
 * **LinkedIn:** www.linkedin.com/in/miguelplanasdiaz
 * **Email:** miguelplanasdiaz@gmail.com
-* **Portfolio:** https://miguelplanas.github.io/en/
